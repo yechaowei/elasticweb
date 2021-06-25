@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f2aefcb-ca05-474e-ad18-0c9b62c9fa0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uOR8r7ORxrCbdNBbfENiYIyui4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="279" key="#GOROOT" timestamp="1624534554835">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="617" y="279" key="#GOROOT/0.0.2048.1240@0.0.2048.1240" timestamp="1624534554835" />
+    <state x="864" y="405" width="450" height="457" key="FileChooserDialogImpl" timestamp="1624587574878">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="864" y="405" width="450" height="457" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1624587574878" />
+    <state x="526" y="262" key="SettingsEditor" timestamp="1624537515917">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="526" y="262" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1624537515917" />
+  </component>
+</project>
