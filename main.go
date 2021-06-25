@@ -18,7 +18,6 @@ package main
 
 import (
 	"flag"
-	"golang.org/x/tools/go/ssa/interp/testdata/src/fmt"
 	"os"
 
 	"k8s.io/apimachinery/pkg/runtime"
@@ -45,7 +44,6 @@ func init() {
 }
 
 func main() {
-	fmt.Println("aaazxcaasdxzzz")
 	var metricsAddr string
 	var enableLeaderElection bool
 	flag.StringVar(&metricsAddr, "metrics-addr", ":8080", "The address the metric endpoint binds to.")
