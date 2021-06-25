@@ -45,7 +45,7 @@ func init() {
 }
 
 func main() {
-	fmt.Println("aaazxcxzzz")
+	fmt.Println("aaazxcaxzzz")
 	var metricsAddr string
 	var enableLeaderElection bool
 	flag.StringVar(&metricsAddr, "metrics-addr", ":8080", "The address the metric endpoint binds to.")
